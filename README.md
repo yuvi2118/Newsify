@@ -1,4 +1,4 @@
-# untitled2
+# Newsify - A tech and business news app
 
 A new Flutter project.
 
